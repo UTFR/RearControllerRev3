@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Mega_Micro_3_Digital Pin=U1-9
+Removed Pin From Net: NetName=Mega_Micro_4_Digital Pin=U1-10
+Removed Pin From Net: NetName=Mega_Micro_5_Digital Pin=U1-11
+Added Pin To Net: NetName=Mega_Micro_4_Digital Pin=U1-9
+Added Pin To Net: NetName=Mega_Micro_5_Digital Pin=U1-10
+Added Pin To Net: NetName=Mega_Micro_3_Digital Pin=U1-11

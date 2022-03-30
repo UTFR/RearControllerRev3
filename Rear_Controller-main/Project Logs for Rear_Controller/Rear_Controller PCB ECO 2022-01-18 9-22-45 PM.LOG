@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=BMS_Analog_1 Pin=P1-B2
+Removed Pin From Net: NetName=BMS_Analog_2 Pin=P1-B3
+Removed Pin From Net: NetName=BMS_Analog_3 Pin=P1-B4
+Removed Pin From Net: NetName=BMS_Analog_4 Pin=P1-B5
+Removed Pin From Net: NetName=BMS_Analog_5 Pin=P2-B2
+Removed Pin From Net: NetName=BMS_Analog_6 Pin=P2-B3
+Removed Pin From Net: NetName=BMS_Analog_7 Pin=P2-B4
+Removed Pin From Net: NetName=BMS_Analog_8 Pin=P2-B5
+Added Component: Designator=MH1(PCBComponent_1)
+Added Component: Designator=MH2(PCBComponent_1)
+Added Component: Designator=MH3(PCBComponent_1)
+Added Component: Designator=MH4(PCBComponent_1)
+Added Component: Designator=MH5(PCBComponent_1)
+Added Component: Designator=MH6(PCBComponent_1)
+Added Pin To Net: NetName=Spare_Pin_3_Digital Pin=A1-27

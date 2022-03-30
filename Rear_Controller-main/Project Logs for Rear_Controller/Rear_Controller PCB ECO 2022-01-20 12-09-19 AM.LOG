@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Arduino_5V Pin=C14-1
+Removed Pin From Net: NetName=Arduino_5V Pin=C15-1
+Removed Pin From Net: NetName=Arduino_5V Pin=IC6-5
+Removed Pin From Net: NetName=Arduino_5V Pin=IC6-6
+Removed Pin From Net: NetName=Arduino_5V Pin=IC7-5
+Removed Pin From Net: NetName=Arduino_5V Pin=IC7-6
+Removed Pin From Net: NetName=Arduino_5V Pin=J6-11
+Removed Pin From Net: NetName=Arduino_5V Pin=U1-29
+Added Pin To Net: NetName=Micro_5V Pin=C14-1
+Added Pin To Net: NetName=Micro_5V Pin=C15-1
+Added Pin To Net: NetName=Micro_5V Pin=IC6-5
+Added Pin To Net: NetName=Micro_5V Pin=IC6-6
+Added Pin To Net: NetName=Micro_5V Pin=IC7-5
+Added Pin To Net: NetName=Micro_5V Pin=IC7-6
+Added Pin To Net: NetName=Micro_5V Pin=J6-11
+Added Pin To Net: NetName=Micro_5V Pin=U1-29
+Added Net: Name=Micro_5V

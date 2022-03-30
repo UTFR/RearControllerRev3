@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=IC1 Old Footprint=DIP762W51P254L920H431Q8N New Footprint=SOIC127P600X175-8N
+Change Component Footprint: Designator=IC2 Old Footprint=DIP762W51P254L920H431Q8N New Footprint=SOIC127P600X175-8N
+Change Component Comment : Designator=IC1 Old Comment=1378 New Comment=ws2811s
+Change Component Comment : Designator=IC2 Old Comment=1378 New Comment=ws2811s
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "DIP762W51P254L920H431Q8N"; UniqueID = "\JSTKAPPY" ("\JSTKAPPY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn-shop.adafruit.com/datasheets/WS2811.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ws2811s"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "DIP762W51P254L920H431Q8N"; UniqueID = "\GPQZYZRF" ("\GPQZYZRF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn-shop.adafruit.com/datasheets/WS2811.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ws2811s"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"

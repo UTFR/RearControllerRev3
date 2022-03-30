@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Brake_Light_12V Pin=1-17
+Removed Pin From Net: NetName=ACM_14.8V_H Pin=1-18
+Removed Pin From Net: NetName=Fused_14.8V_H Pin=1-22
+Removed Pin From Net: NetName=INV_PUMP_14.8V_H Pin=1-23
+Removed Pin From Net: NetName=SDC_14.8V_PDM Pin=1-25
+Removed Pin From Net: NetName=Discharge_Circuit Pin=1-29
+Added Pin To Net: NetName=INV_PUMP_14.8V_H Pin=1-17
+Added Pin To Net: NetName=Fused_14.8V_H Pin=1-18
+Added Pin To Net: NetName=ACM_14.8V_H Pin=1-22
+Added Pin To Net: NetName=Brake_Light_12V Pin=1-23
+Added Pin To Net: NetName=Discharge_Circuit Pin=1-25
+Added Pin To Net: NetName=SDC_14.8V_PDM Pin=1-29

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Discharge_Circuit Pin=1-25
+Removed Pin From Net: NetName=INV_12V Pin=1-27
+Removed Pin From Net: NetName=SDC_14.8V_PDM Pin=1-29
+Added Pin To Net: NetName=Discharge_Circuit Pin=1-26
+Added Pin To Net: NetName=INV_12V Pin=1-28
+Added Pin To Net: NetName=SDC_14.8V_PDM Pin=1-30

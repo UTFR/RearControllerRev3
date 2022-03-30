@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CANH Pin=X2-22
+Removed Pin From Net: NetName=CANL Pin=X2-23
+Removed Pin From Net: NetName=DAQ_CANH Pin=X2-34
+Removed Pin From Net: NetName=DAQ_CANL Pin=X2-35
+Added Pin To Net: NetName=DAQ_CANH Pin=X2-22
+Added Pin To Net: NetName=DAQ_CANL Pin=X2-23
+Added Pin To Net: NetName=CANH Pin=X2-34
+Added Pin To Net: NetName=CANL Pin=X2-35

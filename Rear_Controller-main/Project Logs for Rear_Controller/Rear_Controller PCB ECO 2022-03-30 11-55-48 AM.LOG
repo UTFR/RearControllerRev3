@@ -1,0 +1,85 @@
+Removed Member From Class: ClassName=Power_Distribution Member=R61
+Added Component: Designator=IC5(DIP825W45P254L1905H9015Q14)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/lm2907-n.pdf?ts=1629619091467&ref_url=https%253A%252F%252Fwww.google.com%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.334mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM2907N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM2907N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2907N?qs=X1J7HmVL2ZGG77PtYOUT4A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC6(DIP825W45P254L1905H9015Q14)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/lm2907-n.pdf?ts=1629619091467&ref_url=https%253A%252F%252Fwww.google.com%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.334mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM2907N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM2907N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2907N?qs=X1J7HmVL2ZGG77PtYOUT4A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC7(DIP825W45P254L1905H9015Q14)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/lm2907-n.pdf?ts=1629619091467&ref_url=https%253A%252F%252Fwww.google.com%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.334mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM2907N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM2907N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2907N?qs=X1J7HmVL2ZGG77PtYOUT4A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC8(DIP825W45P254L1905H9015Q14)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/lm2907-n.pdf?ts=1629619091467&ref_url=https%253A%252F%252Fwww.google.com%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.334mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM2907N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM2907N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2907N?qs=X1J7HmVL2ZGG77PtYOUT4A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Speed_RL_Digital Pin=IC5-1
+Added Pin To Net: NetName=NetC8_1 Pin=IC5-2
+Added Pin To Net: NetName=NetC10_1 Pin=IC5-3
+Added Pin To Net: NetName=NetC10_1 Pin=IC5-4
+Added Pin To Net: NetName=Speed_RL_Analog Pin=IC5-5
+Added Pin To Net: NetName=VCC_5V Pin=IC5-8
+Added Pin To Net: NetName=VCC_5V Pin=IC5-9
+Added Pin To Net: NetName=Speed_RL_Analog Pin=IC5-10
+Added Pin To Net: NetName=VCC_3.3V Pin=IC5-11
+Added Pin To Net: NetName=Board_GND Pin=IC5-12
+Added Pin To Net: NetName=Speed_FL_Digital Pin=IC6-1
+Added Pin To Net: NetName=NetC9_1 Pin=IC6-2
+Added Pin To Net: NetName=NetC11_1 Pin=IC6-3
+Added Pin To Net: NetName=NetC11_1 Pin=IC6-4
+Added Pin To Net: NetName=Speed_FL_Analog Pin=IC6-5
+Added Pin To Net: NetName=VCC_5V Pin=IC6-8
+Added Pin To Net: NetName=VCC_5V Pin=IC6-9
+Added Pin To Net: NetName=Speed_FL_Analog Pin=IC6-10
+Added Pin To Net: NetName=VCC_3.3V Pin=IC6-11
+Added Pin To Net: NetName=Board_GND Pin=IC6-12
+Added Pin To Net: NetName=Flow_MTR_FREQ Pin=IC7-1
+Added Pin To Net: NetName=NetC14_1 Pin=IC7-2
+Added Pin To Net: NetName=NetC16_1 Pin=IC7-3
+Added Pin To Net: NetName=NetC16_1 Pin=IC7-4
+Added Pin To Net: NetName=Flow_Rate_MTR_ANALOG Pin=IC7-5
+Added Pin To Net: NetName=VCC_5V Pin=IC7-8
+Added Pin To Net: NetName=VCC_5V Pin=IC7-9
+Added Pin To Net: NetName=Flow_Rate_MTR_ANALOG Pin=IC7-10
+Added Pin To Net: NetName=VCC_3.3V Pin=IC7-11
+Added Pin To Net: NetName=Board_GND Pin=IC7-12
+Added Pin To Net: NetName=Flow_INV_FREQ Pin=IC8-1
+Added Pin To Net: NetName=NetC15_1 Pin=IC8-2
+Added Pin To Net: NetName=NetC17_1 Pin=IC8-3
+Added Pin To Net: NetName=NetC17_1 Pin=IC8-4
+Added Pin To Net: NetName=Flow_Rate_INV_ANALOG Pin=IC8-5
+Added Pin To Net: NetName=VCC_5V Pin=IC8-8
+Added Pin To Net: NetName=VCC_5V Pin=IC8-9
+Added Pin To Net: NetName=Flow_Rate_INV_ANALOG Pin=IC8-10
+Added Pin To Net: NetName=VCC_3.3V Pin=IC8-11
+Added Pin To Net: NetName=Board_GND Pin=IC8-12
+Added Member To Class: ClassName=Power_Distribution Member=Component R53 2K  1%
+Added Member To Class: ClassName=Power_Distribution Member=Component R54 7.5K  1%
+Added Member To Class: ClassName=BMS Member=Component R55 220
+Added Member To Class: ClassName=BMS Member=Component R56 10K
+Added Member To Class: ClassName=BMS Member=Component R57 100
+Added Member To Class: ClassName=BMS Member=Component R58 5.9K 1%
+Added Member To Class: ClassName=BMS Member=Component R59 10K
+Added Member To Class: ClassName=BMS Member=Component R60 2.2K  1%

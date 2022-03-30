@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=BMS_Analog_1 Pin=P1-B2
+Removed Pin From Net: NetName=BMS_Analog_2 Pin=P1-B3
+Removed Pin From Net: NetName=BMS_Analog_3 Pin=P1-B4
+Removed Pin From Net: NetName=BMS_Analog_4 Pin=P1-B5
+Removed Pin From Net: NetName=BMS_Analog_5 Pin=P2-B2
+Removed Pin From Net: NetName=BMS_Analog_6 Pin=P2-B3
+Removed Pin From Net: NetName=BMS_Analog_7 Pin=P2-B4
+Removed Pin From Net: NetName=BMS_Analog_8 Pin=P2-B5
+Removed Pin From Net: NetName=Coolant_1_5V_H Pin=X2-13
+Removed Pin From Net: NetName=GND Pin=X2-22
+Removed Pin From Net: NetName=GND Pin=X2-23
+Removed Pin From Net: NetName=Spare_1_PWM_Analog Pin=X2-25
+Added Pin To Net: NetName=GND Pin=X2-13
+Added Pin To Net: NetName=CANH Pin=X2-22
+Added Pin To Net: NetName=CANL Pin=X2-23
+Added Pin To Net: NetName=GND Pin=X2-25

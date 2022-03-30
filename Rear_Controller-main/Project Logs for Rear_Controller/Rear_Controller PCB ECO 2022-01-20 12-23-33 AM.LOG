@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=RX3 Pin=A1-31
+Added Pin To Net: NetName=RX3 Pin=A1-10
+Added Pin To Net: NetName=RX2 Pin=A1-13

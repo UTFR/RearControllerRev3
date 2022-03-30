@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=RX0 Pin=A1-6
+Added Pin To Net: NetName=RX0 Pin=J4-6
+Added Net: Name=RX0
+Added Pin To Net: NetName=RX1 Pin=A1-30
+Added Pin To Net: NetName=RX1 Pin=J4-5
+Added Net: Name=RX1
+Added Pin To Net: NetName=RX2 Pin=A1-33
+Added Pin To Net: NetName=RX2 Pin=J7-6
+Added Net: Name=RX2
+Added Pin To Net: NetName=RX3 Pin=A1-31
+Added Pin To Net: NetName=RX3 Pin=J7-5
+Added Net: Name=RX3

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LED_2_Return Pin=X3-8
+Removed Pin From Net: NetName=RGB_R_Return Pin=X3-9
+Removed Pin From Net: NetName=Ignition_Switch_INT Pin=X3-14
+Added Pin To Net: NetName=RGB_R_Return Pin=X3-8
+Added Pin To Net: NetName=Ignition_Switch_INT Pin=X3-9
+Added Pin To Net: NetName=LED_2_Return Pin=X3-14
