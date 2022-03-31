@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=CAN_3_INT Pin=J8-17
+Added Net: Name=CAN_3_INT
+Added Pin To Net: NetName=CS_CAN_3 Pin=J8-13
+Added Pin To Net: NetName=CS_CAN_3 Pin=U1-14
+Added Net: Name=CS_CAN_3
+Added Pin To Net: NetName=Micro_Reset Pin=J8-12
+Added Pin To Net: NetName=Micro_Reset Pin=U1-30
+Added Net: Name=Micro_Reset
+Added Pin To Net: NetName=RX4 Pin=J8-6
+Added Net: Name=RX4
+Added Pin To Net: NetName=RX5 Pin=J8-5
+Added Net: Name=RX5

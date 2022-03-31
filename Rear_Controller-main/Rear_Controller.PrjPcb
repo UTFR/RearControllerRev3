@@ -177,6 +177,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
 [Document9]
+DocumentPath=..\..\..\..\Downloads\SamacSys.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPRJBCLL
+
+[Document10]
 DocumentPath=..\..\..\..\Downloads\2002411123\MOLEX_2002411123.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFRHJKAD
 
-[Document10]
+[Document11]
 DocumentPath=..\..\..\..\Downloads\3544-21\SnapEDApcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document11]
+[Document12]
 DocumentPath=..\..\..\..\Downloads\3544-2\SnapEDApcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document12]
+[Document13]
 DocumentPath=..\..\..\AltiumLL\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document13]
+[Document14]
 DocumentPath=LM2907N_NOPB\LM2907N_NOPB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XONMDGCU
 
-[Document14]
+[Document15]
 DocumentPath=LM2907N_NOPB\DIP825W45P254L1905H9015Q14.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GXNVWTPK
 
-[Document15]
+[Document16]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWCDZQVY
 
-[Document16]
+[Document17]
 DocumentPath=Power_Relay.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOHKDXTB
 
-[Document17]
+[Document18]
 DocumentPath=Shutdown_Circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DCCMHEKE
 
-[Document18]
+[Document19]
 DocumentPath=..\SOIC127P599X173-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FORANFUJ
 
-[Document19]
+[Document20]
 DocumentPath=..\DPAK228P998X240-3N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MAMROGWI
 
-[Document20]
+[Document21]
 DocumentPath=PcbLib2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DLNCGCLA
 
-[Document21]
+[Document22]
 DocumentPath=Rear_Controller.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=Schlib2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTJGBAAH
 
-[Document23]
+[Document24]
 DocumentPath=..\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -431,7 +448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YOPIEVJM
 
-[Document24]
+[Document25]
 DocumentPath=..\FG28C0G1H560JNT06.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -448,14 +465,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=Power_Distribution.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=19
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -465,14 +482,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHKLTJEA
 
-[Document26]
+[Document27]
 DocumentPath=BMS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=20
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -482,7 +499,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUVZNHBK
 
-[Document27]
+[Document28]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -499,7 +516,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVHYCDYL
 
-[Document28]
+[Document29]
 DocumentPath=Rear_Controller.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -516,7 +533,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWUYCOVC
 
-[Document29]
+[Document30]
 DocumentPath=Rear_Controller.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1

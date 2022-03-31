@@ -1,0 +1,16 @@
+Added Component: Designator=J8(RHDR10W76P0X254_1X10_2540X356X889P_1.3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "5-535541-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/5-535541-8/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://catalog.tycoelectronics.com/TE/bin/TE.Connect?C=1&PN=5-535541-8&M=BYPN&LG=1&I=13&button.x=43&button.y=16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5-535541-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-5-535541-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-535541-8?qs=xDp7PGUNC%252Bt0eA%2FEm7ovMw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANH Pin=J8-2
+Added Pin To Net: NetName=CANL Pin=J8-3
+Added Pin To Net: NetName=Board_GND Pin=J8-10
+Added Pin To Net: NetName=VCC_5V Pin=J8-11
+Added Pin To Net: NetName=MISO_Micro Pin=J8-14
+Added Pin To Net: NetName=MOSI_Micro Pin=J8-15
+Added Pin To Net: NetName=SCK_Micro Pin=J8-16
