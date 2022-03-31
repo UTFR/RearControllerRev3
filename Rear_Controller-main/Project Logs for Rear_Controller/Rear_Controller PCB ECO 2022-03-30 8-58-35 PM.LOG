@@ -1,0 +1,54 @@
+Change Component Footprint: Designator=F1 Old Footprint=FUSE_3544-2 New Footprint=3544-2
+Change Component Footprint: Designator=F2 Old Footprint=FUSE_3544-2 New Footprint=3544-2
+Change Component Footprint: Designator=F3 Old Footprint=FUSE_3544-2 New Footprint=3544-2
+Change Component Footprint: Designator=F4 Old Footprint=FUSE_3544-2 New Footprint=3544-2
+Change Component Footprint: Designator=F5 Old Footprint=FUSE_3544-2 New Footprint=3544-2
+Change Component Footprint: Designator=F6 Old Footprint=FUSE_3544-2 New Footprint=3544-2
+Change Component Footprint: Designator=F7 Old Footprint=FUSE_3544-2 New Footprint=3544-2
+Change Component Footprint: Designator=F8 Old Footprint=FUSE_3544-2 New Footprint=3544-2
+Change Component Footprint: Designator=F9 Old Footprint=FUSE_3544-2 New Footprint=3544-2
+Change component parameters: Designator = "F1" ("F1"); Footprint = "FUSE_3544-2"; UniqueID = "\EFZAJHTP" ("\EFZAJHTP")
+Change component parameters: Designator = "F2" ("F2"); Footprint = "FUSE_3544-2"; UniqueID = "\FSNLWLWL" ("\FSNLWLWL")
+Change component parameters: Designator = "F3" ("F3"); Footprint = "FUSE_3544-2"; UniqueID = "\FAVKZYBN" ("\FAVKZYBN")
+Change component parameters: Designator = "F4" ("F4"); Footprint = "FUSE_3544-2"; UniqueID = "\ILCLAKUG" ("\ILCLAKUG")
+Change component parameters: Designator = "F5" ("F5"); Footprint = "FUSE_3544-2"; UniqueID = "\TSXGNLSG" ("\TSXGNLSG")
+Change component parameters: Designator = "F6" ("F6"); Footprint = "FUSE_3544-2"; UniqueID = "\BIGQPVNX" ("\BIGQPVNX")
+Change component parameters: Designator = "F7" ("F7"); Footprint = "FUSE_3544-2"; UniqueID = "\DCSJNGMZ" ("\DCSJNGMZ")
+Change component parameters: Designator = "F8" ("F8"); Footprint = "FUSE_3544-2"; UniqueID = "\TLAPVAFO" ("\TLAPVAFO")
+Change component parameters: Designator = "F9" ("F9"); Footprint = "FUSE_3544-2"; UniqueID = "\MQURMDLT" ("\MQURMDLT")
+Added Pin To Net: NetName=BATT_14.8V Pin=F1-1
+Added Pin To Net: NetName=BATT_14.8V Pin=F1-2
+Added Pin To Net: NetName=HV_Box_14.8V Pin=F1-3
+Added Pin To Net: NetName=HV_Box_14.8V Pin=F1-4
+Added Pin To Net: NetName=BATT_14.8V Pin=F2-1
+Added Pin To Net: NetName=BATT_14.8V Pin=F2-2
+Added Pin To Net: NetName=Pump_14.8V Pin=F2-3
+Added Pin To Net: NetName=Pump_14.8V Pin=F2-4
+Added Pin To Net: NetName=BATT_14.8V Pin=F3-1
+Added Pin To Net: NetName=BATT_14.8V Pin=F3-2
+Added Pin To Net: NetName=FAN_R_14.8V Pin=F3-3
+Added Pin To Net: NetName=FAN_R_14.8V Pin=F3-4
+Added Pin To Net: NetName=BATT_14.8V Pin=F4-1
+Added Pin To Net: NetName=BATT_14.8V Pin=F4-2
+Added Pin To Net: NetName=FAN_L_14.8V Pin=F4-3
+Added Pin To Net: NetName=FAN_L_14.8V Pin=F4-4
+Added Pin To Net: NetName=Reg_12V Pin=F5-1
+Added Pin To Net: NetName=Reg_12V Pin=F5-2
+Added Pin To Net: NetName=VCC_12V Pin=F5-3
+Added Pin To Net: NetName=VCC_12V Pin=F5-4
+Added Pin To Net: NetName=Reg_12V Pin=F6-1
+Added Pin To Net: NetName=Reg_12V Pin=F6-2
+Added Pin To Net: NetName=Light_12V Pin=F6-3
+Added Pin To Net: NetName=Light_12V Pin=F6-4
+Added Pin To Net: NetName=Reg_12V Pin=F7-1
+Added Pin To Net: NetName=Reg_12V Pin=F7-2
+Added Pin To Net: NetName=DAQ_12V Pin=F7-3
+Added Pin To Net: NetName=DAQ_12V Pin=F7-4
+Added Pin To Net: NetName=Reg_5V Pin=F8-1
+Added Pin To Net: NetName=Reg_5V Pin=F8-2
+Added Pin To Net: NetName=VCC_5V Pin=F8-3
+Added Pin To Net: NetName=VCC_5V Pin=F8-4
+Added Pin To Net: NetName=Reg_8V Pin=F9-1
+Added Pin To Net: NetName=Reg_8V Pin=F9-2
+Added Pin To Net: NetName=VCC_8V Pin=F9-3
+Added Pin To Net: NetName=VCC_8V Pin=F9-4
