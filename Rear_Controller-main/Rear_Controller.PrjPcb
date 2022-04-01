@@ -160,108 +160,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HNMMYOLO
 
 [Document8]
-DocumentPath=..\..\..\..\Downloads\3544-21\SnapEDAsch.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JVHTISAB
-
-[Document9]
-DocumentPath=..\..\..\..\Downloads\SamacSys.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MPRJBCLL
-
-[Document10]
-DocumentPath=..\..\..\..\Downloads\2002411123\MOLEX_2002411123.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MFRHJKAD
-
-[Document11]
-DocumentPath=..\..\..\..\Downloads\3544-21\SnapEDApcb.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GMIVLSFD
-
-[Document12]
-DocumentPath=..\..\..\..\Downloads\3544-2\SnapEDApcb.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GMIVLSFD
-
-[Document13]
-DocumentPath=..\..\..\AltiumLL\SamacSys.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MPRJBCLL
-
-[Document14]
 DocumentPath=LM2907N_NOPB\LM2907N_NOPB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XONMDGCU
 
-[Document15]
+[Document9]
 DocumentPath=LM2907N_NOPB\DIP825W45P254L1905H9015Q14.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GXNVWTPK
 
-[Document16]
+[Document10]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWCDZQVY
 
-[Document17]
+[Document11]
 DocumentPath=Power_Relay.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOHKDXTB
 
-[Document18]
+[Document12]
 DocumentPath=Shutdown_Circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DCCMHEKE
 
-[Document19]
+[Document13]
 DocumentPath=..\SOIC127P599X173-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FORANFUJ
 
-[Document20]
+[Document14]
 DocumentPath=..\DPAK228P998X240-3N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MAMROGWI
 
-[Document21]
+[Document15]
 DocumentPath=PcbLib2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DLNCGCLA
 
-[Document22]
+[Document16]
 DocumentPath=Rear_Controller.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document17]
 DocumentPath=Schlib2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -431,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTJGBAAH
 
-[Document24]
+[Document18]
 DocumentPath=..\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -448,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YOPIEVJM
 
-[Document25]
+[Document19]
 DocumentPath=..\FG28C0G1H560JNT06.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -465,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document20]
 DocumentPath=Power_Distribution.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -482,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHKLTJEA
 
-[Document27]
+[Document21]
 DocumentPath=BMS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -499,7 +397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUVZNHBK
 
-[Document28]
+[Document22]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -516,7 +414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVHYCDYL
 
-[Document29]
+[Document23]
 DocumentPath=Rear_Controller.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -533,7 +431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWUYCOVC
 
-[Document30]
+[Document24]
 DocumentPath=Rear_Controller.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +610,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP OfficeJet 3830 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
