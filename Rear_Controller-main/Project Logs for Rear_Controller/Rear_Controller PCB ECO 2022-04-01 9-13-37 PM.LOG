@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Board_GND Pin=J1-1
+Removed Pin From Net: NetName=BMS_Analog_1 Pin=P1-B2
+Removed Pin From Net: NetName=BMS_Analog_2 Pin=P1-B3
+Removed Pin From Net: NetName=BMS_Analog_3 Pin=P1-B4
+Removed Pin From Net: NetName=BMS_Analog_4 Pin=P1-B5
+Removed Pin From Net: NetName=BMS_Analog_5 Pin=P2-B2
+Removed Pin From Net: NetName=BMS_Analog_6 Pin=P2-B3
+Removed Pin From Net: NetName=BMS_Analog_7 Pin=P2-B4
+Removed Pin From Net: NetName=BMS_Analog_8 Pin=P2-B5
+Removed Pin From Net: NetName=Board_GND Pin=R38-2
+Removed Pin From Net: NetName=Board_GND Pin=R64-2
+Change Component Comment : Designator=R64 Old Comment=2.2k New Comment=5k
+Change Component Comment : Designator=R26 Old Comment=3.3k New Comment=7k
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R64-2
