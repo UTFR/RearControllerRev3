@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=BMS_Analog_1 Pin=P1-B2
+Removed Pin From Net: NetName=BMS_Analog_2 Pin=P1-B3
+Removed Pin From Net: NetName=BMS_Analog_3 Pin=P1-B4
+Removed Pin From Net: NetName=BMS_Analog_4 Pin=P1-B5
+Removed Pin From Net: NetName=BMS_Analog_5 Pin=P2-B2
+Removed Pin From Net: NetName=BMS_Analog_6 Pin=P2-B3
+Removed Pin From Net: NetName=BMS_Analog_7 Pin=P2-B4
+Removed Pin From Net: NetName=BMS_Analog_8 Pin=P2-B5
+Change Component Footprint: Designator=J2 Old Footprint=MOLEX_2002411123 New Footprint=2002411YY3_11/12/13
+Change component parameters: Designator = "J2" ("J2"); Footprint = "MOLEX_2002411123"; UniqueID = "\KWRFQYFA" ("\KWRFQYFA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/2002411113_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "17.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2002411123"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
