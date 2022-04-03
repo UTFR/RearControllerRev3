@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Documents\GitHub\RearControllerRev3\Rear_Controller-main\Rear_Controller.PcbDoc
 Date     : 2022-04-03
-Time     : 4:09:38 PM
+Time     : 4:11:52 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
    Violation between Clearance Constraint: (39.764mil < 50mil) Between Pad P1-1(10000mil,2805mil) on Multi-Layer And Pad P1-B2(10098.425mil,2805mil) on Top Layer 
@@ -413,4 +413,4 @@ Rule Violations :0
 
 Violations Detected : 368
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
